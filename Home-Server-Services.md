@@ -1,9 +1,20 @@
 # Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI):
-- [ ] Note Taking server
+- [ ] Note Taking server (Bookstack, ... )
 - [ ] ConvertX Hosting Service
-- [ ] Document Cloud Hosting
+- [ ] Document Cloud Hosting (Nextcloud)
 - [ ] NAS?
 - [ ] Plex
 - [ ] Rasspberry PI hole
 - [ ] Privoxy
-- [ ] 
+- [ ] SQL server for Project
+- [ ] IVB Buss Service API for Innsbruck
+- [ ] OpenVPN
+- [ ] Own Wikipedia (MediaWiki)
+- [ ] Host my Website
+- [ ] E-Mail Hosting
+- [ ] Radaar - Film downloading
+- [ ] Transmission - Torrent downloading
+- [ ] Minecraft Server
+- [ ] Home Securety System (Cammara Survailance at home [Ring Alternative])
+- [ ] Home Assistant
+- [ ] 3D Printer Accsess (Upload files, camera for Survailance if not home)
