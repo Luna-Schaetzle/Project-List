@@ -6,7 +6,7 @@
 - [ ] make Diploma Thesis Dokumentation and add it to my Website
 - [ ] make my Old-Website Design Available
 - [ ] Home Server Hosting Services (Maby on Rasspberry PI) [See on the Bottom]
-- [ ] _
+- [ ] 404 Website error image generation (on JavaSkript base)
 
 
 # Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI):
