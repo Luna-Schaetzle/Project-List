@@ -4,4 +4,14 @@
 - [ ] Catastrophee Prediction
 - [ ] dnd OS (based on another Linux but with many build in dnd features and more)
 - [ ] make Diploma Thesis Dokumentation and add it to my Website
-- [ ] 
+- [ ] make my Old-Website Design Available
+- [ ] Home Server Hosting Services (Maby on Rasspberry PI):
+        - [ ] Note Taking server
+        - [ ] ConvertX Hosting Service
+        - [ ] Document Cloud Hosting
+        - [ ] NAS?
+        - [ ] Plex
+        - [ ] Rasspberry PI hole
+        - [ ] Privoxy
+        - [ ] 
+- [ ] _
