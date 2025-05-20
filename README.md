@@ -9,7 +9,7 @@
 - [ ] 404 Website error image generation (on JavaSkript base)
 
 
-# Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI):
+# Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI) [Insipiration: https://techhut.tv/must-have-home-server-services-2025/]: 
 - [ ] Note Taking server (Bookstack, ... )
 - [ ] ConvertX Hosting Service
 - [ ] Document Cloud Hosting (Nextcloud)
