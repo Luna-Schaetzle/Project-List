@@ -7,6 +7,7 @@
 - [ ] make my Old-Website Design Available
 - [ ] Home Server Hosting Services (Maby on Rasspberry PI) [See on the Bottom]
 - [ ] 404 Website error image generation (on JavaSkript base)
+- [ ] KochenLibary inkl. Random meal giver
 
 
 # Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI) [Insipiration: https://techhut.tv/must-have-home-server-services-2025/]: 
@@ -29,6 +30,7 @@
 - [ ] Home Securety System (Cammara Survailance at home [Ring Alternative])
 - [ ] Home Assistant
 - [ ] 3D Printer Accsess (Upload files, camera for Survailance if not home)
+- [ ] Ask me what to cook
 
 
 
