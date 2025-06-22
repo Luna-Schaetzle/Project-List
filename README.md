@@ -8,6 +8,7 @@
 - [ ] Home Server Hosting Services (Maby on Rasspberry PI) [See on the Bottom]
 - [ ] 404 Website error image generation (on JavaSkript base)
 - [ ] KochenLibary inkl. Random meal giver (Open Source cook book [inkluding Tips and Triks])
+- [ ] daily wallpaper changer (maybe ai powered) witch utilizes weather data or preset data (calender etc.) to change the wallpaper every day 
 
 
 # Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI) [Insipiration: https://techhut.tv/must-have-home-server-services-2025/]: 
