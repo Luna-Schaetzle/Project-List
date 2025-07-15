@@ -10,7 +10,7 @@
 - [ ] KochenLibary inkl. Random meal giver (Open Source cook book [inkluding Tips and Triks])
 - [ ] daily wallpaper changer (maybe ai powered) witch utilizes weather data or preset data (calender etc.) to change the wallpaper every day 
 - [ ] network locator / network status / network info (cli maybe)
-- [ ] ASCII Game (Maby like in the Style of Undertale) [ref: https://www.youtube.com/watch?v=8Dnjl1no6P4]
+- [ ] ASCII Game (Maby like in the Style of Undertale) [ref: https://www.youtube.com/watch?v=8Dnjl1no6P4  |   https://bucephalus.itch.io/cultgame]
 - [ ] World generation random with game Engine 
 
 
