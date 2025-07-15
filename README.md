@@ -9,7 +9,9 @@
 - [ ] 404 Website error image generation (on JavaSkript base)
 - [ ] KochenLibary inkl. Random meal giver (Open Source cook book [inkluding Tips and Triks])
 - [ ] daily wallpaper changer (maybe ai powered) witch utilizes weather data or preset data (calender etc.) to change the wallpaper every day 
-- [ ] network locator / network status / network info (cli maybe) 
+- [ ] network locator / network status / network info (cli maybe)
+- [ ] ASCII Game (Maby like in the Style of Undertale) [ref: https://www.youtube.com/watch?v=8Dnjl1no6P4]
+- [ ] World generation random with game Engine 
 
 
 # Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI) [Insipiration: https://techhut.tv/must-have-home-server-services-2025/]: 
