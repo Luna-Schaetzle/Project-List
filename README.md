@@ -12,6 +12,8 @@
 - [ ] network locator / network status / network info (cli maybe)
 - [ ] ASCII Game (Maby like in the Style of Undertale) [ref: https://www.youtube.com/watch?v=8Dnjl1no6P4  |   https://bucephalus.itch.io/cultgame]
 - [ ] World generation random with game Engine 
+- [ ] ASCII Art map generator 
+- [ ] ASCII Art RPG game
 
 
 # Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI) [Insipiration: https://techhut.tv/must-have-home-server-services-2025/]: 
