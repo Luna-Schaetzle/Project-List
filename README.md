@@ -14,7 +14,7 @@
 - [ ] World generation random with game Engine 
 - [ ] ASCII Art map generator 
 - [ ] ASCII Art RPG game
-
+- [ ] ASCII round base fighter game (pokémon, grist)
 
 # Here are the things I want to do for Home Server Hosting Services (Maby on Rasspberry PI) [Insipiration: https://techhut.tv/must-have-home-server-services-2025/]: 
 - [ ] Note Taking server (Bookstack, ... )
